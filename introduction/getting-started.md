@@ -13,12 +13,12 @@ To start, visit [ember.help](https://ember.help) and create your account by clic
 In the popup that appears, select your preferred authentication method. In this guide, we'll login via Discord.
 
 !!!
-We recommend connecting Discord, especially if you a [Curious Addys](https://curiousaddys.com) holder, as you will receive additional benefits on our site.
+We recommend connecting Discord, especially if you are a [Curious Addys](https://curiousaddys.com) holder, as you will receive additional benefits on our site.
 !!!
 
 ![Select either Discord or Google](/static/images/getting-started-2.png)
 
-You will be redirected to the account provider you chose, follow the prompts to login. For Discord, click "Authorize" in the bottom right of the popup message.
+You will be redirected to the account provider that you chose, simply follow the prompts to login. For Discord, click "Authorize" in the bottom right of the popup message.
 
 ![Click "Authorize" to allow us to connect your account](/static/images/getting-started-3.png)
 
