@@ -45,26 +45,14 @@ We only check in the [Curious Addys Discord](https://discord.gg/catc) if you hav
 
 After authorizing your account with your authentication provider, you will be sent back to our site, logged in!
 
-You're now ready to start asking and answering questions!
+## Getting Question Notifications
 
-## Asking Questions
+If you want to be notified when questions are posted (specifically in your area of expertise), you'll have to join the [Curious Addys Discord](https://discord.gg/catc), and follow these steps to set up notifications for your account.
 
-So you've logged in successfully... Congratulations! You're now able to use our site to ask any crypto/web3 question, and get a fast, guaranteed answer from our experts.
+First, head to the #notification-roles channel under the "Ask a Question" category, and react to the message to receive notifications for each specific category of question.
 
-To get started, click the "Ask Community" button in the top right, next to your profile picture.
+![](/static/images/experts-1.png)
 
-![](/static/images/getting-started-4.png)
+Now, you'll get a Discord ping for any future questions which are tagged with the notifications you selected.
 
-You're now on our page to create your own question! Let's fill out some information.
-
-First, you should provide a short, but clear title - this will help our experts know what you need help with at a glance, and will make sure you get a quick, relevant answer.
-
-Next, include a detailed description - you can include photos/screenshots too if it helps you explain your question.
-
-Finally, add tags to your post - this will make sure the relevant experts get notified about your question right away.
-
-!!!
-If you don't assign tags, the time it takes to answer your question may increase!
-!!!
-
-Now, just hit "Post Question", and our experts will get you an answer right away.
+![](/static/images/experts-2.png)

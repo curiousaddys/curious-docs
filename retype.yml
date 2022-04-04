@@ -8,6 +8,10 @@ branding:
 links:
   - text: Ember.help
     link: https://ember.help
+  - text: Curious Addys
+    link: https://curiousaddys.com
+  - text: Discord
+    link: https://discord.gg/catc
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 favicon: static/favicon.png
