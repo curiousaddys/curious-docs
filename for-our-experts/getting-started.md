@@ -6,7 +6,7 @@ order: 10
 
 ## Logging In
 
-To start, visit [ember.help](https://ember.help) and create your account by clicking "Login" in the top right.
+To start, visit [curious.xyz](https://curious.xyz) and create your account by clicking "Login" in the top right.
 
 ![](/static/images/getting-started-1.png)
 
