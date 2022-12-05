@@ -35,11 +35,11 @@ We use your email to send you notifications when someone answers a question you 
 
 :icon-check-circle-fill: **Know what servers you're in**
 
-The only check we make on this information is if you are a member of the [Curious Addys Discord](https://discord.gg/catc), and this is connected to the following piece of information we request.
+The only check we make on this information is if you are a member of the [Curious Addys Discord](https://discord.gg/bMESuBancV), and this is connected to the following piece of information we request.
 
 :icon-check-circle-fill: **Read your member info (nickname, avatar, roles, etc...) for servers you belong to**
 
-We only check in the [Curious Addys Discord](https://discord.gg/catc) if you have the role which means you are a holder of a Curious Addy. We will eventually replace this system with a wallet connection on this site, but your roles in our Discord is a quick way for us to check this information until that wallet connection system is implemented.
+We only check in the [Curious Addys Discord](https://discord.gg/bMESuBancV) if you have the role which means you are a holder of a Curious Addy. We will eventually replace this system with a wallet connection on this site, but your roles in our Discord is a quick way for us to check this information until that wallet connection system is implemented.
 
 ===
 
@@ -47,7 +47,7 @@ After authorizing your account with your authentication provider, you will be se
 
 ## Getting Question Notifications
 
-If you want to be notified when questions are posted (specifically in your area of expertise), you'll have to join the [Curious Addys Discord](https://discord.gg/catc), and follow these steps to set up notifications for your account.
+If you want to be notified when questions are posted (specifically in your area of expertise), you'll have to join the [Curious Addys Discord](https://discord.gg/bMESuBancV), and follow these steps to set up notifications for your account.
 
 First, head to the #notification-roles channel under the "Ask a Question" category, and react to the message to receive notifications for each specific category of question.
 
